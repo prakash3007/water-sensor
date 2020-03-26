@@ -2,7 +2,9 @@
   margin-left: auto;
 }
 
-
+.sensor_img{
+  border-radius: 25px;
+}
 
 body {
   height: 100%;
